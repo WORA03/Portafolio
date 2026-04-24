@@ -298,8 +298,8 @@ body {
     border: 1px solid rgba(27, 44, 104, 0.63);
     border-radius: 0.5rem;
     position: relative;
-    max-width: 450px;
-    margin: 0 auto;
+    max-width: 488px;
+    margin: 1 auto;
 }
 
 .code-header {
@@ -589,7 +589,7 @@ section {
 
 .project-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0 10px 30px rgba(168, 85, 247, 0.3);
+    box-shadow: 0 25px 45px rgba(168, 85, 247, 0.3);
 }
 
 .project-image {
